@@ -1,7 +1,7 @@
-# ai-mentor-journey
+
 # AI Mentor Journey 🚀
 
-> Hành trình học AI/ML từ zero, focus vào ứng dụng cho Fintech & Marketing Analytics.
+> Hành trình học AI từ zero, focus vào ứng dụng cho Fintech & Marketing Analytics.
 
 ## 👤 About
 - **Name**: [Nguyễn Vũ Tuấn]
